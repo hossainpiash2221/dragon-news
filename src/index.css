@@ -5,3 +5,7 @@
 @theme {
   --font-display: "Poppins", sans-serif;
 }
+
+a.active {
+  background-color: #e7e7e7;
+}
